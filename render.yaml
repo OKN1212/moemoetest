@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: oai-proxy
+    name: moemoe
     env: docker
-    repo: https://gitlab.com/khanon/oai-proxy.git
+    repo: https://github.com/OKN1212/moemoetest.git
     region: oregon
     plan: free
     branch: main
